@@ -9,8 +9,8 @@ This project was fascinating, and I thoroughly enjoyed researching dayjs. Althou
 
 Link to Scheduler: <br>https://kaleims.github.io/9to5-Work-Scheduler/
 
-Important Info: Depending on the time, each time-block/row fall into three different colors. 
-<br><b>Future: Green
+<b>Important Info: Depending on the time, each time-block/row fall into three different colors. 
+<br>Future: Green
 <br>Past: White/Grey
 <br>Present: Red/Orange</b>
 
